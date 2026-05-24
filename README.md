@@ -1,3 +1,4 @@
+[Target case study full project.pdf](https://github.com/user-attachments/files/28189345/Target.case.study.full.project.pdf)
 🛒 Target E-commerce SQL Analysis
 This project analyzes Target’s e-commerce operations in Brazil using Google BigQuery and SQL.
 The goal is to explore customer behavior, order trends, payment methods, and delivery performance using real-world data.
